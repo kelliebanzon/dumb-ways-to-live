@@ -1,0 +1,165 @@
+#mainMenuButton {
+	height:50px;
+	background-image:url('mainMenuButton.png');
+	position: absolute;
+	left: 230px;
+	top: 525px;
+}
+
+#mainMenuButtonAbout {
+	height:30px;
+	background-image:url('menuButton.png');
+	position: absolute;
+	left: 580px;
+	top: 540px;
+}
+
+#mainMenuButtonPercent {
+	height:30px;
+	background-image:url('menuButton.png');
+	position: absolute;
+	left: 600px;
+	top: 550px;
+}
+
+#mainMenuButtonAction {
+	height:40px;
+	background-image:url('menuButton.png');
+	position: absolute;
+	left: 590px;
+	top: 540px;
+}
+
+#playButton {
+	height:40px;
+	background-image:url('play.png');
+	position: absolute;
+	left: 40px;
+	top: 480px;
+}
+
+#aboutButton {
+	height:40px;
+	width: 40px;
+	background-image:url('about_box.png');
+	position: absolute;
+	left: 290px;
+	top: 480px;
+}
+
+#percentButton {
+	height:40px;
+	width: 40px;
+	background-image:url('percent_box.png');
+	position: absolute;
+	left: 445px;
+	top: 480px;
+}
+
+#actionButton {
+	height:40px;
+	width: 40px;
+	background-image:url('actionButton_box.png');
+	position: absolute;
+	left: 600px;
+	top: 480px;
+}
+
+#arrow {
+	width: 65px;
+	height: 65px;
+	background-image:url('arrow.png');
+	position: absolute;
+	left: 700px;
+	top: 560px;
+}
+
+#draggable {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position:absolute;
+	left: 190px;
+	top: 570px;
+}
+
+#draggable2 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 260px;
+	top: 570px;
+}
+
+#draggable3 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 225px;
+	top: 527px;
+}
+
+#draggablew1 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 500px;
+	top: 570px;
+}
+
+#draggablec0 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 330px;
+	top: 245px;
+}
+
+#draggablec1 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 370px;
+	top: 250px;
+}
+
+#draggablec2 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 375px;
+	top: 280px;
+}
+
+#draggablec3 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 332px;
+	top: 284px;
+}
+
+#draggablec4 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 345px;
+	top: 210px;
+}
+
+#draggablec5 {
+	width: 65px;
+	height: 40px;
+	background-image:url('dollar.gif');
+	position: absolute;
+	left: 285px;
+	top: 245px;
+}

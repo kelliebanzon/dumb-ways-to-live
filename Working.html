@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Dumb Ways to Live</title>
+  </head>
+
+  <body>
+    <img src = "Level 1.png" alt = "Level 1 Background" style="height:620px;">
+    <div id="coords"></div>
+    <div id="touchzone"></div>
+    <div id="draggable"></div>
+    <div id="draggable2"></div>
+    <div id="draggable3"></div>
+    <div id="draggablew1"></div>
+    <div id="draggablec0"></div>
+    <div id="draggablec1"></div>
+    <div id="draggablec2"></div>
+    <div id="draggablec3"></div>
+    <div id="draggablec4"></div>
+    <div id="draggablec5"></div>
+    <div id="arrow">
+      <a href="Level1Win.html"><img src = "arrow.png" name = "arrowButton"></a>
+      <onmouseOver="MouseOverRoutine('arrowButton')" onmouseOut="MouseOutRoutine('arrowButton')">
+    </div>
+
+    <script type="text/javascript">
+      function MouseOverRoutine(arrowButton){
+        {document.arrowButton.src = "arrow_white.png";}
+      }
+
+      function MouseOutRoutine(arrowButton){
+        {document.arrowButton.src = "arrow.png";}
+      }
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="Working.css">
+      <script src="Working.js"></script>
+  </body>
+</html>
